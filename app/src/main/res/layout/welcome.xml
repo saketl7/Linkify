@@ -20,9 +20,7 @@
             android:layout_height="87dp"
             android:text="Hey Saket!"
             android:textSize="30sp"
-            android:textStyle="bold|italic"
-
-            />
+            android:textStyle="bold|italic"/>
 
         <TextView
             android:id="@+id/website"
